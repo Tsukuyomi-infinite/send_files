@@ -1,0 +1,7 @@
+GroupId,GroupName,VpcId,Description,OwnerId,InboundRulesCount,OutboundRulesCount,Tags
+sg-05ed22ef810470b0a,default,vpc-0a6cd2033a1e4ace5,default VPC security group,044632260728,1,1,
+sg-05971e90a420bae8d,launch-wizard-2,vpc-0a66d1fd533e6f537,launch-wizard-2 created 2024-05-30T15:48:32.213Z,044632260728,3,1,
+sg-06559023f6c5fdc48,launch-wizard-3,vpc-0a66d1fd533e6f537,launch-wizard-3 created 2024-05-30T17:10:35.112Z,044632260728,4,1,
+sg-06dd07f24cd8bbb29,launch-wizard-4-terraform,vpc-0a6cd2033a1e4ace5,launch-wizard-4 created 2024-05-31T12:04:27.517Z,044632260728,1,1,
+sg-01bbe8fd88258b319,launch-wizard-1,vpc-0a66d1fd533e6f537,launch-wizard-1 created 2023-01-23T16:41:16.623Z,044632260728,4,1,
+sg-0d05e9a11fca409c5,default,vpc-0a66d1fd533e6f537,default VPC security group,044632260728,1,1,
